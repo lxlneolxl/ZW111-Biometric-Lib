@@ -1,5 +1,6 @@
-#include "ZW111.h" // ← classe corrigida (ZW111.h/.cpp)
 #include <Arduino.h>
+#include <ZW111.h> // Biblioteca ZW111
+
 
 /* -------------------- CONFIGURAÇÃO -------------------- */
 #define TOUCH_PIN 4             // pino que lê o toque do sensor
