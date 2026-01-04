@@ -30,6 +30,12 @@ A biblioteca já está configurada para desenvolvimento.
 2. O arquivo `platformio.ini` já aponta para o exemplo em `examples/ZW111_Basic`.
 3. Use o botão **Build/Upload** normalmente.
 
+### Sobre o arquivo library.properties
+Este projeto inclui um arquivo `library.properties` no padrão Arduino 1.5. Isso significa que:
+- A Arduino IDE reconhece automaticamente os metadados da biblioteca (nome, versão, autor).
+- Permite que a biblioteca apareça corretamente no **Gerenciador de Bibliotecas**, com links e descrições formatadas.
+- Organiza a estrutura interna, separando o código-fonte (`src/`) dos exemplos (`examples/`).
+
 ### Autoria
 Este projeto foi desenvolvido com a assistência da **Antigravity**, uma IA de codificação avançada criada pelo **Google Deepmind**.
 
@@ -60,6 +66,12 @@ The library is already configured for development.
 1. Open the folder in VS Code.
 2. The `platformio.ini` file points to the example in `examples/ZW111_Basic`.
 3. Use **Build/Upload** as usual.
+
+### About library.properties
+This project includes a `library.properties` file following the Arduino 1.5 standard. This means:
+- The Arduino IDE automatically recognizes library metadata (name, version, author).
+- Allows the library to appear correctly in the **Library Manager** with formatted links and descriptions.
+- Organizes the internal structure, separating source code (`src/`) from examples (`examples/`).
 
 ### Credits
 This project was developed with the assistance of **Antigravity**, an advanced coding AI created by **Google Deepmind**.
