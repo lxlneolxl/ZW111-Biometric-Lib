@@ -16,6 +16,10 @@ Biblioteca para controlar o sensor de biometria capacitivo **ZW111** (H-Link) ut
 - **Controle de LED**: Funções dedicadas para o anel de LED RGB.
 - **Protocolo Otimizado**: Comunicação serial eficiente.
 
+### Documentação
+A pasta `extras/` deste repositório contém a documentação técnica oficial e datasheets do sensor ZW111. Consulte-a para detalhes profundos sobre os comandos e registros.
+
+
 ### Instalação
 
 #### Opção 1: Arduino IDE (Instalação Manual)
@@ -63,6 +67,10 @@ Library to control the **ZW111** capacitive biometric sensor (H-Link) using ESP3
 - **Identify**: Fast fingerprint recognition.
 - **LED Control**: Dedicated functions for the RGB LED ring.
 - **Optimized Protocol**: Efficient serial communication.
+
+### Documentation
+The `extras/` folder in this repository contains the official technical documentation and datasheets for the ZW111 sensor. Refer to it for deep details on commands and registers.
+
 
 ### Installation
 
